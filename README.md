@@ -1,1 +1,1 @@
-# baekjoon_practice
+github에는 누더기 파일 올린 후 노션에 따로 정리
